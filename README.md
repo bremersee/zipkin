@@ -1,2 +1,0 @@
-# zipkin
-Spring Cloud Zipkin
